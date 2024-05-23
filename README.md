@@ -1,6 +1,6 @@
 <h1>Movie Recommendation System</h1>
 
-link:movierecommendsystem.netlify.app
+link:https://movierecommendsystem.netlify.app/
 <hr>
 
 # Getting Started with Create React App
